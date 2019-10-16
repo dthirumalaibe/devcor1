@@ -1,4 +1,4 @@
-# Updating CI Tests and Integrating Static Code Analysis
+# Module 4 - Updating CI Tests and Integrating Static Code Analysis
 This module adds testing for the database and SSL upgrades
 from the previous module. It also adds static code analysis
 using the Python `bandit` package.
